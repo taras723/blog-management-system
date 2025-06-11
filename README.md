@@ -75,8 +75,8 @@ Implement API endpoints for working with posts and comments. (optional)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/taras723/Laravel-Blog.git
-cd Laravel-Blog-Website
+git clone https://github.com/taras723/blog-management-system.git
+cd blog-management-system
 ```
 
 2. Install dependencies:
@@ -206,8 +206,6 @@ Content-Type: application/json
     "content": "Your comment text"
 }
 ```
-
-![post](/public/show/post.png)
 
 ## Database Structure
 
